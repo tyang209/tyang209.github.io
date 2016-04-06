@@ -5,8 +5,4 @@ permalink: /about/
 feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
-
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Tao Yang is a NYC based comedian. Tao performs all over New York at different comedy theaters and bars that aren't doing that well financially so they need a comedy night to stave off complete bankruptcy. Tao also writes and performs with a video sketch group [Terms of Service](https://www.youtube.com/channel/UC4V59RT5wghBy19biAy5kFw/featured) that airs on public access television in Brooklyn and Manhattan so he is technically a TV-star. He can be seen performing with his improv group [Thunderbox](http://thunderbox.improvteams.com/) across the entire eastern seaboard.
