@@ -138,7 +138,8 @@ header .intro-text .skills {
 }
 .navbar-custom .navbar-nav li.active a {
   color: white;
-  background: #18BC9C;
+  background: #320E3B;
+  border-radius: 40px;
 }
 .navbar-custom .navbar-nav li.active a:hover,
 .navbar-custom .navbar-nav li.active a:focus,
@@ -179,7 +180,7 @@ header .intro-text .skills {
   }
 }
 section {
-  padding: 100px 0;
+  padding: 50px 0;
 }
 section h2 {
   margin: 0;
@@ -188,6 +189,13 @@ section h2 {
 section.success {
   background: #B2DBBF;
   color: black;
+}
+section.tweetcal {
+  background: #E1FAF9;
+  color: black;
+}
+.icons i{
+  color:white;
 }
 div.top-buffer { margin-top:20px; }
 div.divider {
@@ -200,7 +208,7 @@ div.divider {
 }
 @media (max-width: 767px) {
   section {
-    padding: 75px 0;
+    padding: 20px 0;
   }
   section.first {
     padding-top: 75px;
