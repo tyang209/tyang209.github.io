@@ -3,6 +3,27 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
+
+/* :root {
+  --navbar-top-color: #247BA0;
+  --profile-color: #70C1B3;
+  --whatido-color: #B2DBBF;
+  --reel-color: #F3FFBD;
+  --tweetcal-color:#E1FAF9;
+  --navbar-bottom-color: #2C3E50;
+
+}
+6699cc-fff275-ff8c42-ff3c38-a23e48*/
+
+ :root {
+  --navbar-top-color: #2f4868;
+  --profile-color: #395982;
+  --whatido-color: #446a9c;
+  --reel-color: #507bb5;
+  --tweetcal-color:#82a2cc;
+  --navbar-bottom-color: #2f4868;
+
+}
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
@@ -55,15 +76,15 @@ hr.star-light {
   border-color: white;
 }
 hr.star-light:after {
-  background-color: #70C1B3;
+  background-color: var(--profile-color);
   color: white;
 }
 hr.star-primary {
-  border-color: #70C1B3;
+  border-color: var(--profile-color);
 }
 hr.star-primary:after {
   background-color: white;
-  color: #70C1B3;
+  color: var(--profile-color);
 }
 .img-centered {
   margin: 0 auto;
@@ -84,7 +105,7 @@ h2 {
 
 header {
   text-align: center;
-  background: #70C1B3;
+  background: var(--profile-color);
   color: white;
 }
 header .container {
@@ -97,7 +118,7 @@ header img {
 }
 header .intro-text .name {
   display: block;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-weight: 700;
   font-size: 2em;
@@ -105,6 +126,7 @@ header .intro-text .name {
 header .intro-text .skills {
   font-size: 1.25em;
   font-weight: 300;
+  font-family: 'Roboto', sans-serif;
 }
 @media (min-width: 768px) {
   header .container {
@@ -122,8 +144,9 @@ header .intro-text .skills {
   }
 }
 .navbar-custom {
-  background: #247BA0;
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: var(--navbar-top-color);
+  font-family: 'Open Sans', sans-serif;
+
   text-transform: uppercase;
   font-weight: 700;
   border: none;
@@ -203,14 +226,28 @@ section {
 section h2 {
   margin: 0;
   font-size: 3em;
+  font-family: 'Open Sans', sans-serif;
+
 }
 section.success {
-  background: #B2DBBF;
-  color: black;
+  background: var(--whatido-color);
+  color: white;
+  font-family: 'Roboto', sans-serif;;
+
+
+}
+section.reel {
+  background: var(--reel-color);
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+
 }
 section.tweetcal {
-  background: #E1FAF9;
-  color: black;
+  background: var(--tweetcal-color);
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+
+
 }
 .icons i{
   color:white;
@@ -337,7 +374,7 @@ footer h3 {
 }
 footer .footer-above {
   padding-top: 50px;
-  background-color: #2C3E50;
+  background-color: var(--navbar-bottom-color);
 }
 footer .footer-col {
   margin-bottom: 50px;
@@ -364,8 +401,8 @@ footer .footer-below {
 }
 .btn-primary {
   color: white;
-  background-color: #2C3E50;
-  border-color: #2C3E50;
+  background-color: var(--navbar-bottom-color);
+  border-color: var(--navbar-bottom-color);
   font-weight: 700;
 }
 .btn-primary:hover,
@@ -397,11 +434,11 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #2C3E50;
-  border-color: #2C3E50;
+  background-color: var(--navbar-bottom-color);
+  border-color: var(--navbar-bottom-color);
 }
 .btn-primary .badge {
-  color: #2C3E50;
+  color: var(--navbar-bottom-color);
   background-color: white;
 }
 .btn-success {
@@ -515,7 +552,7 @@ fieldset[disabled] .btn-success.active {
   height: 75px;
   width: 1px;
   margin-left: 35px;
-  background-color: #2C3E50;
+  background-color: var(--navbar-bottom-color);
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   /* IE 9 */
@@ -526,7 +563,7 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .close-modal .lr .rl {
   height: 75px;
   width: 1px;
-  background-color: #2C3E50;
+  background-color: var(--navbar-bottom-color);
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   /* IE 9 */
