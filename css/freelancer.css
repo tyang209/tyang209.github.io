@@ -24,6 +24,12 @@
   --navbar-bottom-color: #2f4868;
 
 }
+
+#face{
+
+  margin-bottom: 0px;
+}
+
 body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden;
@@ -39,7 +45,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #18BC9C;
+  color: aquamarine;
   outline: none;
 }
 h1,
@@ -97,10 +103,7 @@ h2 {
  max-width: 100%; 
 }
 
-#face{
-  padding-top: 40px;
 
-}
 
 
 header {
@@ -139,9 +142,7 @@ header .intro-text .skills {
   header .intro-text .skills {
     font-size: 1.75em;
   }
-  #face {
-    padding-top: 0px;
-  }
+
 }
 .navbar-custom {
   background: var(--navbar-top-color);
