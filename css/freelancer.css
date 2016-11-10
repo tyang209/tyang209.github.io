@@ -28,6 +28,11 @@
 #face{
 
   margin-bottom: 0px;
+  width: 100%;
+}
+#facediv {
+  width:100%;
+
 }
 
 body {
@@ -142,6 +147,10 @@ header .intro-text .skills {
   header .intro-text .skills {
     font-size: 1.75em;
   }
+  #face{
+    width: auto;
+  }
+
 
 }
 .navbar-custom {
