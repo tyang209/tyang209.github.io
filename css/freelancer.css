@@ -252,13 +252,20 @@ section.reel {
   font-family: 'Open Sans', sans-serif;
 
 }
-section.tweetcal {
+section.tweetcal, section.writing{
   background: var(--tweetcal-color);
   color: white;
   font-family: 'Open Sans', sans-serif;
-
-
 }
+p.article{
+  font-family: 'arial', sans-serif;
+  font-size:'120%';
+  color: white;
+  text-decoration: underline;
+  color: aquamarine;
+}
+
+
 .icons i{
   color:white;
 }
