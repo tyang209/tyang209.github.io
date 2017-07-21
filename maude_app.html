@@ -60,6 +60,7 @@ function getYoutubeID(url) {
 
 
 d3.csv("Maude.csv", function(data){
+      if(error) { console.log(error); }
 
   var activeTeams = ['Pretty_Boys','Choir','Archnemesis',
                     'The_Foundation','Cha-Cha','Bundt'
