@@ -6,10 +6,19 @@
     <description>Recent content in This is a content file in HTML on Tao Yang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2019 21:22:24 -0700</lastBuildDate>
     
 	<atom:link href="https://www.tao-yang.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why a Blog?</title>
+      <link>https://www.tao-yang.com/posts/why-a-blog/</link>
+      <pubDate>Sat, 21 Sep 2019 21:22:24 -0700</pubDate>
+      
+      <guid>https://www.tao-yang.com/posts/why-a-blog/</guid>
+      <description>I’m starting this blog to be the #1 Tao Yang on google.</description>
+    </item>
     
     <item>
       <title></title>

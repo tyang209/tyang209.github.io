@@ -6,9 +6,46 @@
     <description>Recent content in Tags on Tao Yang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sat, 21 Sep 2019 21:22:24 -0700</lastBuildDate>
     
 	<atom:link href="https://www.tao-yang.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog</title>
+      <link>https://www.tao-yang.com/tags/blog/</link>
+      <pubDate>Sat, 21 Sep 2019 21:22:24 -0700</pubDate>
+      
+      <guid>https://www.tao-yang.com/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content</title>
+      <link>https://www.tao-yang.com/tags/content/</link>
+      <pubDate>Sat, 21 Sep 2019 21:22:24 -0700</pubDate>
+      
+      <guid>https://www.tao-yang.com/tags/content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seo</title>
+      <link>https://www.tao-yang.com/tags/seo/</link>
+      <pubDate>Sat, 21 Sep 2019 21:22:24 -0700</pubDate>
+      
+      <guid>https://www.tao-yang.com/tags/seo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tao Yang</title>
+      <link>https://www.tao-yang.com/tags/tao-yang/</link>
+      <pubDate>Sat, 21 Sep 2019 21:22:24 -0700</pubDate>
+      
+      <guid>https://www.tao-yang.com/tags/tao-yang/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
