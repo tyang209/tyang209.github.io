@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>This is a content file in HTML on Tao Yang</title>
+    <title>Tao Yang&#39;s Website on Tao Yang</title>
     <link>https://www.tao-yang.com/</link>
-    <description>Recent content in This is a content file in HTML on Tao Yang</description>
+    <description>Recent content in Tao Yang&#39;s Website on Tao Yang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 21 Sep 2019 21:22:24 -0700</lastBuildDate>
