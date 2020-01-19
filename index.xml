@@ -5,7 +5,6 @@
     <link>https://www.tao-yang.com/</link>
     <description>Recent content in Tao Yang&#39;s Website on Tao Yang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
     <lastBuildDate>Sat, 21 Sep 2019 21:22:24 -0700</lastBuildDate>
     
 	<atom:link href="https://www.tao-yang.com/index.xml" rel="self" type="application/rss+xml" />
@@ -21,7 +20,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>Tao Bio</title>
       <link>https://www.tao-yang.com/bio/</link>
       <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -37,6 +36,25 @@ Prior to L.A., I was a writer on a house sketch team (aka Maude Night) at the Up
       
       <guid>https://www.tao-yang.com/videos/</guid>
       <description>Writing Juul CEO - No More Advertising To KIds   Writing / Acting Don&amp;rsquo;t Start a Twitch Stream   You Created A Fictional Language For A Sketch?   Class President Needed for One Last Job   When Your Favorite Old Shows Don’t Hold Up   High Stakes Icebreakers   What&amp;rsquo;s Wrong With Being &amp;ldquo;Whipped&amp;rdquo;?   You Suck In Your Own Story   Which Book Should Trigger Our Secret Door?</description>
+    </item>
+    
+    <item>
+      <title>Dumbo Tourist</title>
+      <link>https://www.tao-yang.com/dumbo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tao-yang.com/dumbo/</guid>
+      <description> DUMBO - Down Under Manhattan-Brooklyn Overpass You gotta take this photo if you&amp;rsquo;re ever in DUMBO. And if you work in DUMBO you have to take one everyday.
+  </description>
+    </item>
+    
+    <item>
+      <title>Tao Yang&#39;s Reels</title>
+      <link>https://www.tao-yang.com/reels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.tao-yang.com/reels/</guid>
+      <description> ️✏️ Writing Reel ️️✏️   🎭 Acting Reel 🎭   </description>
     </item>
     
   </channel>
